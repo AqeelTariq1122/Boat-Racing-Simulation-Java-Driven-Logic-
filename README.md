@@ -1,6 +1,6 @@
 # 🚤 Boat Racing Simulation (Java-Driven Logic)
 
-> A fun AnyLogic simulation where 10 boats race across a track, each with unique randomly generated speeds — with race logic, movement, and timing fully coded in **Java** rather than relying on built-in AnyLogic libraries.
+> A fun AnyLogic simulation where 10 boats race across a track, each with unique randomly generated speeds, with race logic, movement, and timing fully coded in **Java** rather than relying on built-in AnyLogic libraries.
 
 <img width="1455" height="917" alt="image" src="https://github.com/user-attachments/assets/253d72f6-c0ed-4533-a318-ab7dc5cc45f5" />
 
